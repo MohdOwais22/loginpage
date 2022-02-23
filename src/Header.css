@@ -1,0 +1,48 @@
+
+.header{
+    background-color: whitesmoke;
+    border-bottom:0.1px solid rgba(0,0,0,#023047);
+    min-height: 11vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo > h1{
+    color: #023047;
+    font-weight: 750;
+    text-align:justify;
+    margin:0 5vw;
+    display:inline-block;
+    position:relative;
+    left:1rem;
+    z-index:3;
+
+}
+.logo > h1 > span {
+    color: #FB8500;
+}
+
+.header__right{
+    align-items: flex-end;
+}
+
+.header__right > button{
+    margin: 0 2vmax 0 1vmax;
+}
+
+.header__right > button:hover{
+    background-color: #023047;
+}
+
+
+.login{
+    background-color: #FB8500;
+    padding: 0 4vmax;
+    border: none;
+}
+.trial{
+    padding: 0 3vmax;
+    background-color: #023047;
+    border: none;
+}
