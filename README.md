@@ -1,3 +1,8 @@
+As described in the assignment i have tried to make the exact clone of the page with responsive design for desktop and mobile. 
+The api response will appear in alert box when clicked on login button whether it's error or generated token.
+
+for fast testing and evaluation i have deployed the assignment - https://task1vouch.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
